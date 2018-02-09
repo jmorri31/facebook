@@ -1,0 +1,270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"injectGradient"
+			],
+			[
+				"delete",
+				"deleteButton"
+			],
+			[
+				"addL",
+				"addListAfterPress"
+			],
+			[
+				"passwor",
+				"passwordPrompt"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 139.0,
+		"last_filter": "terminal",
+		"selected_items":
+		[
+			[
+				"terminal",
+				"Terminal: Open in project folder"
+			],
+			[
+				"o",
+				"Terminal: Open"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 176.0,
+		"history":
+		[
+			"open_terminal",
+			"let a = 1;",
+			"add",
+			"ls",
+			"cd",
+			"bitch"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jmorri31/Desktop/background color/script.js",
+		"/Users/jmorri31/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/jmorri31/Desktop/ecma6/script.js",
+		"/Users/jmorri31/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/jmorri31/Desktop/ecma6/ecma6.js",
+		"/Users/jmorri31/Desktop/ecma6/templatestrings.js",
+		"/Users/jmorri31/Desktop/background color/style.css",
+		"/Users/jmorri31/Desktop/ternary operator/switch.js",
+		"/Users/jmorri31/Desktop/ternary operator/advancedObjects.js",
+		"/Users/jmorri31/Desktop/ternary operator/script.js",
+		"/Users/jmorri31/Desktop/ternary operator/ternary operator.js",
+		"/Users/jmorri31/Desktop/background color/index.html",
+		"/Users/jmorri31/Desktop/facebook/script.js",
+		"/Users/jmorri31/Desktop/facebook/style.css",
+		"/Users/jmorri31/Desktop/facebook/index.html",
+		"/Users/jmorri31/Desktop/facebook/scripts.js",
+		"/Users/jmorri31/Documents/GitHub/hello/script.js",
+		"/Users/jmorri31/Desktop/index.html",
+		"/Users/jmorri31/Desktop/flexbot/style.css",
+		"/Users/jmorri31/Desktop/flexbot/index.html",
+		"/Users/jmorri31/Desktop/style.css",
+		"/Users/jmorri31/Desktop/newpage.html",
+		"/Users/jmorri31/Desktop/register.html",
+		"/Users/jmorri31/Desktop/pss-small (1).svg"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "script.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
